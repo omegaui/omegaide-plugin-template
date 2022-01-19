@@ -1,6 +1,10 @@
 >JDK Path
 -/usr/lib/jvm/jdk-17
 >Main Class
--
+-test.plugin.Main
 >Language Tag
 -0
+>Project Classpath : Required Jars
+-project-root$/lib/Omega IDE-dailybuild.jar
+>Project Classpath : Required Resource Roots
+-project-root$/res
