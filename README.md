@@ -1,2 +1,7 @@
 # omegaide-plugin-template
-A template for creating plugins for omegaide. Just clone this repo, open the folder in omegaide and hit run.
+A template for creating plugins for omegaide. 
+
+- Just clone this repo.
+- [Download](https://raw.githubusercontent.com/omegaui/omegaide/main/out/OmegaIDE%20IDE-dailybuild.jar) the latest beta.
+- open the folder **omegaide-plugin-template** in omegaide.
+- **HIT RUN**.
